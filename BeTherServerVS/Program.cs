@@ -3,6 +3,8 @@ using BeTherMongoDB.Services;
 using BeTherServer.Services;
 using BeTherServer.MongoContext;
 
+///hello
+
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.Configure<MongoDBSettings>(builder.Configuration.GetSection("MongoService"));
 
