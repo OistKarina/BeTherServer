@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{8966E43F-651A-409A-86C5-7589263C2F7F}|http">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BeTherServerVS/Services/Utils/ResultUnit.cs">
+    <Files>
+      <File FileName="BeTherServerVS/Controllers/PreviousQuestionsController.cs" Line="55" Column="36" />
+      <File FileName="BeTherServerVS/Models/PreviousQuestions.cs" />
+      <File FileName="BeTherServerVS/Services/Utils/ResultUnit.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BeTherServerVS" expanded="True">
+            <Node name="BeTherServer" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Utils" expanded="True">
+                  <Node name="ResultUnit.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/koistrach/Projects/BeTherServerVS/BeTherServerVS/Controllers/PreviousQuestionsController.cs" relfile="BeTherServerVS/Controllers/PreviousQuestionsController.cs" line="50" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BeTherServer PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qPHNa309NcMyYNX10x/zAnaNCGpsq0NjtbOP3/r+laY=",
+  "Source": "BeTherServer",
+  "BasePath": "_content/BeTherServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
