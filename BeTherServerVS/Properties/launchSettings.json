@@ -40,7 +40,7 @@
     "BeTherServer": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:46372;http://localhost:54453",
+      "applicationUrl": "https://localhost:62970;http://localhost:54133",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
