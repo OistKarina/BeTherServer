@@ -1,34 +1,28 @@
 ﻿<Properties StartupConfiguration="{8966E43F-651A-409A-86C5-7589263C2F7F}|http">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/koistrach/Projects/BeTherServerVS/BeTherServerVS/Controllers/PreviousQuestionsController.cs" relfile="BeTherServerVS/Controllers/PreviousQuestionsController.cs" line="50" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BeTherServerVS/MongoContext/ConnectToAppMongoContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BeTherServerVS/Controllers/PreviousQuestionsController.cs">
     <Files>
-      <File FileName="BeTherServerVS/Services/ConnectToAppService/ConnectToAppService.cs" />
-      <File FileName="BeTherServerVS/Services/ConnectToAppService/IConnectToAppDBContext.cs" />
+      <File FileName="BeTherServerVS/Services/ConnectToAppService/ConnectToAppService.cs" Line="37" Column="58" />
+      <File FileName="BeTherServerVS/Services/ConnectToAppService/IConnectToAppDBContext.cs" Line="8" Column="24" />
       <File FileName="BeTherServerVS/Services/ConnectToAppService/IConnectToAppService.cs" />
       <File FileName="BeTherServerVS/Services/PreviousQuestionService/IPreviousQuestionDBContext.cs" />
       <File FileName="BeTherServerVS/Services/PreviousQuestionService/IPreviousQuestionService.cs" />
       <File FileName="BeTherServerVS/Services/PreviousQuestionService/PreviousQuestionsService.cs" />
-      <File FileName="BeTherServerVS/Controllers/ConnectToAppController.cs" Line="23" Column="6" />
-      <File FileName="BeTherServerVS/MongoContext/ConnectToAppMongoContext.cs" Line="1" Column="1" />
-      <File FileName="BeTherServerVS/Program.cs" Line="1" Column="1" />
-      <File FileName="BeTherServerVS/Controllers/PreviousQuestionsController.cs" Line="1" Column="1" />
+      <File FileName="BeTherServerVS/Controllers/ConnectToAppController.cs" Line="55" Column="78" />
+      <File FileName="BeTherServerVS/MongoContext/ConnectToAppMongoContext.cs" Line="18" Column="48" />
+      <File FileName="BeTherServerVS/Program.cs" />
+      <File FileName="BeTherServerVS/Controllers/PreviousQuestionsController.cs" Line="58" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="BeTherServerVS" expanded="True">
-            <Node name="BeTherServer">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="MongoContext" expanded="True">
-                <Node name="ConnectToAppMongoContext.cs" selected="True" />
-              </Node>
+          <Node name="BeTherServerVS">
+            <Node name="BeTherServer" selected="True">
+              <Node name="MongoContext" expanded="True" />
               <Node name="Services" expanded="True">
                 <Node name="ConnectToAppService" expanded="True" />
                 <Node name="PreviousQuestionService" expanded="True" />
@@ -37,6 +31,9 @@
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
