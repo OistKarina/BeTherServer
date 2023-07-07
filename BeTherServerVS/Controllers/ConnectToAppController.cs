@@ -13,11 +13,11 @@ using Microsoft.AspNetCore.Mvc;
 namespace BeTherServer.Controllers;
 
 [Controller]
-public class LoginController : Controller
+public class ConnectToAppController : Controller
 {
     private readonly IConnectToAppService m_ConnectToAppLogic;
 
-    public LoginController(IConnectToAppService i_ConnectToAppLogic)
+    public ConnectToAppController(IConnectToAppService i_ConnectToAppLogic)
     {
         m_ConnectToAppLogic = i_ConnectToAppLogic;
     }
@@ -38,7 +38,7 @@ public class LoginController : Controller
                 return NotFound(result.ResultMessage);
             }
         }
-        catch(Exception ex)
+        catch (Exception ex)
         {
             string exptionError = ex.Message;
             return StatusCode(500);
@@ -52,7 +52,6 @@ public class LoginController : Controller
     {
         try
         {
-
             ResultUnit<string> result = await m_ConnectToAppLogic.CreateNewUserAccount(NewUser);
             if (result.IsSuccess == false)
             {
@@ -68,5 +67,6 @@ public class LoginController : Controller
             return StatusCode(500);
         }
     }
+
 }
 
